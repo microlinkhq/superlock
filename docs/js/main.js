@@ -54,7 +54,7 @@ darkScheme.addEventListener('change', () => {
 
 window.$docsify = {
   name: '<picture><source media="(prefers-color-scheme: dark)" srcset="static/logo.svg"><img alt="superlock" src="static/logo-light.svg"></picture>',
-  repo: 'Kikobeats/superlock',
+  repo: 'microlinkhq/superlock',
   maxLevel: 3,
   auto2top: true,
   topMargin: phone.matches ? HEADING_GAP.phone : HEADING_GAP.desktop,

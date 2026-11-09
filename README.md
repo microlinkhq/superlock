@@ -10,8 +10,8 @@
 <p align="center" class="subtitle">The minimal Node.js concurrency toolkit.</p>
 
 <p align="center" class="badges">
-  <a href="https://github.com/Kikobeats/superlock/releases"><img alt="Last version" src="https://img.shields.io/github/v/tag/Kikobeats/superlock?style=flat-square"></a>
-  <a href="https://coveralls.io/github/Kikobeats/superlock"><img alt="Coverage Status" src="https://img.shields.io/coverallsCoverage/github/Kikobeats/superlock?style=flat-square"></a>
+  <a href="https://github.com/microlinkhq/superlock/releases"><img alt="Last version" src="https://img.shields.io/github/v/tag/microlinkhq/superlock?style=flat-square"></a>
+  <a href="https://coveralls.io/github/microlinkhq/superlock"><img alt="Coverage Status" src="https://img.shields.io/coverallsCoverage/github/microlinkhq/superlock?style=flat-square"></a>
   <a href="https://www.npmjs.com/package/superlock"><img alt="NPM Status" src="https://img.shields.io/npm/dm/superlock?style=flat-square"></a>
 </p>
 
@@ -296,7 +296,7 @@ How many callers are waiting for a slot. On a fair queue that is the total acros
 
 ## License
 
-**superlock** © [Kiko Beats](https://kikobeats.com), released under the [MIT](https://github.com/Kikobeats/superlock/blob/master/LICENSE.md) License.<br>
-Authored and maintained by [Kiko Beats](https://kikobeats.com) with help from [contributors](https://github.com/Kikobeats/superlock/contributors).
+**superlock** © [Kiko Beats](https://kikobeats.com), released under the [MIT](https://github.com/microlinkhq/superlock/blob/master/LICENSE.md) License.<br>
+Authored and maintained by [Kiko Beats](https://kikobeats.com) with help from [contributors](https://github.com/microlinkhq/superlock/contributors).
 
 > [kikobeats.com](https://kikobeats.com) · GitHub [Kiko Beats](https://github.com/Kikobeats) · X [@Kikobeats](https://x.com/Kikobeats)

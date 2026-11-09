@@ -18,10 +18,10 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kikobeats/superlock.git"
+    "url": "git+https://github.com/microlinkhq/superlock.git"
   },
   "bugs": {
-    "url": "https://github.com/Kikobeats/superlock/issues"
+    "url": "https://github.com/microlinkhq/superlock/issues"
   },
   "keywords": [
     "async",
